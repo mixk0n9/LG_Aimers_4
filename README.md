@@ -3,6 +3,7 @@
 
 **LG Aimers 4기 해커톤**
 
+
 **:high_brightness:온라인 8위, 오프라인 9위(상위 1%):high_brightness:**
 
 
