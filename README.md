@@ -1,6 +1,6 @@
 # :briefcase:LG전자 B2B 영업 성공 예측 및 분석:briefcase:
 
-<img src="./LG Aimers 4_images/lg.png" width="300" height="150"/>
+<img src="./LG Aimers 4_images/lg.png" width="300" height="120"/>
 
 **LG Aimers 4기 해커톤**
 
