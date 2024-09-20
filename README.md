@@ -7,7 +7,7 @@
 
 **:high_brightness:온라인 8위, 오프라인 9위(상위 1%):high_brightness:**
 
-<img src="./LG Aimers 4_images/aimers4_online.png" width="800" height="80"/>
+<img src="./LG Aimers 4_images/aimers4_online.png" width="800" height="60"/>
 
 ----------------------
 
