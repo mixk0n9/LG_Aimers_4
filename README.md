@@ -1,5 +1,6 @@
 # :briefcase:LG전자 B2B 영업 성공 예측 및 분석:briefcase:
 
+<img src="./LG Aimers 4_images/lg.png" width="300" height="150"/>
 
 **LG Aimers 4기 해커톤**
 
@@ -51,7 +52,7 @@ MQL 데이터(B2B)
 
 ## :chart_with_upwards_trend:분석 과정
 
-<img src="./MLOps_images/취업 포트폴리오 최종_25.png" width="800" height="400"/>
+<img src="./LG Aimers 4_images/취업 포트폴리오 최종_15.png" width="800" height="400"/>
 
-<img src="./MLOps_images/취업 포트폴리오 최종_26.png" width="800" height="400"/>
+<img src="./LG Aimers 4_images/취업 포트폴리오 최종_16.png" width="800" height="400"/>
 
